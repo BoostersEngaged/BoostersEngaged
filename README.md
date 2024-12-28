@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BoostersEngaged
-- 👀 I’m interested in statistics, computer science ,astronautics and cosmology
+- 👀 I’m interested in statistics, computer science， AI&CG, X-D rebuilding
 - 🌱 I’m currently learning programming with python and C++
-- 💞️ I’m looking to collaborate on MLsys and data science related programmes...
+- 💞️ I’m looking to collaborate on MLsys and Computer Graphics related programmes...
 - 📫 My email address is boyuanzhu03@outlook.com
 
 <!---
